@@ -5,12 +5,12 @@
     <parent>
         <artifactId>oidc-parent</artifactId>
         <groupId>nl.finalist.liferay.oidc</groupId>
-        <version>0.3.1-SNAPSHOT</version>
+        <version>0.6.0-SNAPSHOT</version>
     </parent>
 
     <artifactId>oidc-hook</artifactId>
     <packaging>war</packaging>
-    <name>OpenID Connect SSO Hook</name>
+    <name>OpenID Connect 6.2 SSO Hook</name>
 
     <build>
         <plugins>
